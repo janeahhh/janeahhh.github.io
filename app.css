@@ -16,7 +16,8 @@ body {
 }
 .links { 
     display: inline;
-    padding: 0px 10px 0px 0px; 
+    padding: 0px 10px 0px 0px;
+    color: rgb (41,53,8); 
 }
 p { 
     padding: 0px 300px 0px 300px;
