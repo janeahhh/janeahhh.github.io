@@ -34,8 +34,5 @@ h1 {
 
 .images {
     display: inline; 
-    padding: 0px 10px 0px 0px; 
-div { 
-    float: right; 
-    clear: right; 
-} 
+    padding: 0px 300px 0px 0px; 
+
