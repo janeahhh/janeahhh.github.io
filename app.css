@@ -31,6 +31,5 @@ h1 {
     color: rgb(190, 198, 167); 
 }
 img { 
-    align: right; 
-    float: right; 
+    display: inline;  
 } 
