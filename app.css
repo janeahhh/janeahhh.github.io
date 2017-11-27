@@ -32,4 +32,5 @@ h1 {
 }
 img { 
     align: right; 
+    float: right; 
 } 
