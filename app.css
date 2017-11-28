@@ -23,7 +23,10 @@ p {
     font-family: Varela Round; 
 }
 article { 
-    padding: 0px 300px 0px 300px; 
+    padding: 0px 300px 0px 300px;
+    width: 500px; 
+    padding: 200px; 
+    margin: 0 auto; 
 }
 h2 { 
     padding: 0px 300px 0px 300px;
