@@ -20,8 +20,10 @@ body {
     font-color: rgb (41,53,8); 
 }
 p { 
-    padding: 0px 300px 0px 300px;
     font-family: Varela Round; 
+}
+article { 
+    padding: 0px 300px 0px 300px; 
 }
 h2 { 
     padding: 0px 300px 0px 300px;
