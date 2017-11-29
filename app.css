@@ -22,7 +22,7 @@ body {
 p { 
     font-family: Varela Round; 
 }
-article { 
+body { 
     padding: 0px 300px 0px 300px;
     width: 500px;
     margin: 0 auto; 
