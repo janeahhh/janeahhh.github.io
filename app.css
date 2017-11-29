@@ -5,11 +5,11 @@ header {
     font-family: Pacifico; 
 }
 ul { 
-    padding: 0px 100px 0px 100px;
+    padding: 0px 300px 0px 300px;
     font-family: Varela Round;  
 }
 li { 
-    padding: 0px 200px 0px 200px; 
+    padding: 0px 100px 0px 100px; 
 }
 body { 
     background-color: rgb(78, 83, 64);
@@ -35,9 +35,3 @@ h1 {
 .images {
     display: inline; 
     padding: 0px 300px 0px 0px; 
-
-img { 
-    border: 3px; 
-    border-style: solid; 
-    color: rgb(154, 163, 132); 
-}
